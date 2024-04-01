@@ -1,0 +1,17 @@
+Welcome to the CDL Test In-Cab Pre-Trip
+Simulator! During this portion of the CDL test,
+you are testing the various components of
+your combination vehicle which can be accessed
+or controlled from inside the cab. These include:
+
+    -Dashboard lights and gauges
+    -The coupling system
+    -The braking system
+
+The different stages of the inspection can be
+activated by clicking one of the four buttons 
+in the corners of this window. To get started, click
+the key twice to start the truck, then click 
+"Display Dashboard" in the upper left corner. After
+that, you can progress through the Tug Test, 
+Service Brake Test, and Air Brake Leak Down test.

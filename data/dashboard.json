@@ -1,0 +1,174 @@
+ [
+    {
+        "abs light":
+            {
+                "Name": "abs light",
+                "Answers": [
+                    "Lit up on the dashboard",
+                    "Lit up on the back of the trailer"
+                ],
+                "Width/Height": [32, 26],
+                "Image": "images/abs_light.png",
+                "Coords": [820, 480],
+                "Answered": false
+            }
+    },
+    {
+        "def gauge":
+            {
+                "Name": "def gauge",
+                "Answers": [
+                "is/are functioning",
+                "Shows I have enough DEF for the trip."
+                ],
+                "Width/Height": [110, 95],
+                "Image": "images/def.png",
+                "Coords": [80, 260],
+                "Answered": false
+            }
+    },
+    {
+        "left turn signal": 
+            {
+                "Name": "left turn signal",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [36, 31],
+                "Image": "images/left_turn.png",
+                "Coords": [415, 135],
+                "Answered": false
+            }
+    },
+    {
+        "right turn signal": 
+            {
+                "Name": "right turn signal",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [36, 31],
+                "Image": "images/right_turn.png",
+                "Coords": [575, 135],
+                "Answered": false
+            }
+    },
+    {
+        "four way flashers": 
+            {
+                "Name": "four way flashers",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [110, 21],
+                "Image": "images/flashers.png",
+                "Coords": [460, 140],
+                "Answered": false
+            }
+    },
+    {
+        "high beams": 
+            {
+                "Name": "high beams",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [36, 31],
+                "Image": "images/hi_beam.png",
+                "Coords": [290, 310],
+                "Answered": false
+            }
+    },
+    {
+        "mirrors": 
+            {
+                "Name": "mirrors",
+                "Answers": [
+                    "is/are securely mounted",
+                    "is/are not cracked, chipped or broken",
+                    "is/are adjusted to my view"
+                ],
+                "Width/Height": [152, 120],
+                "Image": "images/mirrors.png",
+                "Coords": [780, 10],
+                "Answered": false
+            }
+    },
+    {
+        "wiper fluid": 
+        {
+                "Name": "wiper fluid",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [40, 36],
+                "Image": "images/wiper_fluid.png",
+                "Coords": [80, 60],
+                "Answered": false
+        }
+    },
+    {
+        "windshield": 
+        {
+                "Name": "windshield",
+                "Answers": [
+                    "is/are securely mounted",
+                    "is/are not cracked, chipped or broken",
+                    "is clear of stickers or other obstructions"
+                ],
+                "Width/Height": [600, 118],
+                "Image": "images/windshield.png",
+                "Coords": [130, 10],
+                "Answered": false
+        }
+    },
+    {
+        "windshield wipers": 
+        {
+                "Name": "windshield wipers",
+                "Answers": [
+                    "is/are securely mounted",
+                    "is/are not cut, worn, or torn",
+                    "are making contact with the windshield."
+                ],
+                "Width/Height": [390, 47],
+                "Image": "images/wipers.png",
+                "Coords": [330, 80],
+                "Answered": false
+        }
+    },
+    {
+        "air horn": 
+        {
+                "Name": "air horn",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [150, 83],
+                "Image": "images/air_horn.png",
+                "Coords": [140, 550],
+                "Answered": false
+        }
+    },
+    {
+        "city horn": 
+        {
+                "Name": "city horn",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [120, 122],
+                "Image": "images/city_horn.png",
+                "Coords": [375, 525],
+                "Answered": false
+        }
+    },
+    {
+        "heater": 
+        {
+                "Name": "heater",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [120, 122],
+                "Image": "images/foot_heat.png",
+                "Coords": [550, 525],
+                "Answered": false
+        }
+    },
+    {
+        "defrost": 
+        {
+                "Name": "defrost",
+                "Answers": ["is/are functioning"],
+                "Width/Height": [180, 137],
+                "Image": "images/defrost.png",
+                "Coords": [750, 525],
+                "Answered": false
+        }
+    }
+ ]

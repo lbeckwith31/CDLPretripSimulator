@@ -1,0 +1,7 @@
+You cannot begin the leakdown test until:
+
+-Vehicle is in neutral
+-Ignition is set to auxiliary
+-Both spring brakes are released
+-Air tanks have reached governor cut out
+-You are not pressing the brake pedal

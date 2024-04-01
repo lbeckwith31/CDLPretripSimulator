@@ -1,0 +1,10 @@
+Now it's time to check that your low PSI
+warning light and buzzer are functioning.
+With the ignition still in auxiliary mode, 
+fan the brakes (press the brake pedal 
+repeatedly) to bring the PSI levels down.
+
+Your low PSI warning light and buzzer should
+turn on at no more than 60 and no less than 55
+PSI. Be sure to record the PSI level at which
+you notice the light and buzzer activating.
