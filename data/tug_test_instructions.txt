@@ -1,0 +1,13 @@
+The tug test is an essential part of the 
+pre-trip inspection. A successful tug test
+verifies that your tractor and trailer are
+properly coupled, and that the spring brakes
+in the tractor and trailer are working.
+
+To perform the tug test, put the truck in gear.
+Then, release the trailer brake while leaving
+the tractor brake set. Press on the gas and
+ensure the vehicle does not move. Next,
+repeat these steps with the tractor brake
+released and the trailer brake set. Click the
+"End tug test" button when finished.

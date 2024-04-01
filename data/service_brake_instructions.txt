@@ -1,0 +1,14 @@
+Now it is time to perform the service brake
+test to ensure that your service brake can
+safely bring your combination vehicle to a
+stop while moving.
+
+To perfrom the service brake test, put the
+truck in drive and ensure that the tractor
+and trailer spring brakes are released. Press
+"G" to step on the gas pedal and move the 
+vehicle forward slightly, then press "B" to
+engage the service brake. The brake system is
+working properly if the steering wheel does
+not pull to the left or right when pressing
+on the service brake.
