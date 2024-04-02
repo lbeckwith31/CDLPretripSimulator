@@ -23,7 +23,10 @@ window = Tk()
 window.title("Ohio CDL Pretrip Simulator (Automatic)")
 window.geometry(image_dimensions)
 
-
+#I put the follwowing lines in here because I use Windows
+#and Linux and was initially hoping to make this cross-
+#platform. I'm now wondering if this is why the .exe
+#file gets flagged by VirusTotal
 if platform == "linux":
     icon = "@truck.xbm"
 elif platform == "win32":
